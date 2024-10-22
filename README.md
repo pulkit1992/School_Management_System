@@ -1,1 +1,1 @@
-# Shool_Managment_System
+# school_management
